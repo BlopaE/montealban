@@ -1,0 +1,44 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl piedra
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.470588 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaSur/piedra.jpg
+
+newmtl Granite_Light_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.580392 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaSur/Granite_Light_Gray.jpg
+
+newmtl suelo
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.690196 0.635294
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaSur/suelo.jpg
+
+newmtl Stone_Vein_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.647059 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaSur/Stone_Vein_Gray.jpg
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.407843 0.298039
+Ks 0.330000 0.330000 0.330000
+map_Kd plataformaSur/_1.png
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.000000 0.031373
+Ks 0.330000 0.330000 0.330000
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
